@@ -21603,7 +21603,7 @@
   sk = Kóči
 
 [Japan_Shikoku Region_Kyoto]
-  en = Kyōto Prefecture
+  en = Kyōto and Shiga Prefecture
   ru = Киото
   ar = كيوتو
   be = Прэфектура Кіёта
@@ -21613,11 +21613,11 @@
   nl = Kioto
   fi = Kioton prefektuuri
   fr = préfecture de Kyoto
-  de = Präfektur Kyōto
+  de = Präfektur Kyōto und Shiga
   hu = Kiotó prefektúra
   id = Prefektur Kyoto
   it = prefettura di Kyoto
-  ja = 京都府
+  ja = 京都府・滋賀県
   ko = 교토 부
   nb = Kyoto
   pl = Prefektura Kioto
@@ -42324,7 +42324,7 @@
   sk = Osaka
 
 [Japan_Kinki Region_Osaka_West]
-  en = Ōsaka — West
+  en = Hyōgo
   ru = Осака — Запад
   ar = أوساكا — غرب
   ca = Ōsaka  — oest
@@ -42333,11 +42333,11 @@
   nl = Osaka — West
   fi = Osakan prefektuuri — Länsi
   fr = préfecture d'Osaka — Ouest
-  de = Präfektur Ōsaka — Westen
+  de = Präfektur Hyōgo
   hu = Oszaka prefektúra — Nyugat
   id = Prefektur Osaka — Barat
   it = prefettura di Osaka — Ovest
-  ja = 大阪府・西部
+  ja = 兵庫県
   ko = 오사카 부 — 서
   nb = Osaka — Vest
   pl = Prefektura Osaka — Zachód
